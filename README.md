@@ -1,16 +1,16 @@
-# 💳 Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 This project focuses on identifying fraudulent credit card transactions using machine learning techniques. It leverages various classification models on a real-world dataset to detect anomalies and reduce financial risk.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Credit card fraud is a growing concern in the digital world. The goal of this project is to build models that can detect suspicious transactions with high accuracy, even when working with imbalanced datasets.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - The dataset contains transactions made by European cardholders in September 2013.
@@ -19,7 +19,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## 🧠 Machine Learning Algorithms Used
+## Machine Learning Algorithms Used
 
 - Logistic Regression
 - Random Forest
@@ -27,7 +27,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 1. **Data Preprocessing**
    - Handling missing values (if any)
@@ -45,7 +45,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## 📈 Results
+## Results
 
 | Model              | Precision | Recall | F1-Score | ROC-AUC |
 |-------------------|-----------|--------|----------|---------|
@@ -57,7 +57,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -67,7 +67,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## 📚 Future Improvements
+## Future Improvements
 
 - Use deep learning models like Autoencoders.
 - Implement real-time fraud detection system.
@@ -75,7 +75,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ├── data/
 │ └── creditcard.csv
@@ -86,7 +86,7 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 - **Neeshu Gautam**
 - [LinkedIn](https://linkedin.com/in/neeshu-gautam-17961a291) | [GitHub](https://github.com/neeshu8076)

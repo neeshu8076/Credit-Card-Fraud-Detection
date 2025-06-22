@@ -89,6 +89,6 @@ Credit card fraud is a growing concern in the digital world. The goal of this pr
 ## 🙋‍♂️ Author
 
 - **Neeshu Gautam**
-- [https://linkedin.com/in/neeshu-gautam-17961a291](#) | [https://github.com/neeshu8076](#)
+- [LinkedIn](https://linkedin.com/in/neeshu-gautam-17961a291) | [GitHub](https://github.com/neeshu8076)
 
 
